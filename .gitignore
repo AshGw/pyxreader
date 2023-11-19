@@ -1,0 +1,8 @@
+*venv/
+*.idea/
+build/
+*pdfwizard.egg-info/
+*.ruff_cache/
+*.mypy_cache/
+*.pytest_cache/
+*__pycache__/
